@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "بیماری عقل"
-date: 2020-07-22
+date: 2020-07-23
 categories: philosophy
 image: /assets/article_images/the-sickness-of-reason/01.jpg
 
