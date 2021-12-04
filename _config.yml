@@ -12,7 +12,7 @@ plugins:
   - jekyll-paginate
   - jalalidate
   - jemoji
-  - gem jekyll-jalali
+  - jekyll-jalali
 # Site settings
 title: "shosseinib"
 description: > # knowledge / gnu linux / bioinformatics / clinic 
