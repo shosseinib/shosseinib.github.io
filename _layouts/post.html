@@ -21,7 +21,8 @@ comments: true
             </div>
         <div class="cf post-meta-text" style="text-align:center">
             <!--<div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>-->
-            <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4> | <span class="date">{{ page.date | jdate: "%A %d %b %Y"}}</span>
+            <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4> | <span class="date">{{ page.date | jdate: "%B %e, %Y"}}</span>
+          </a>
             <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
         </div>
           </div>
@@ -34,9 +35,7 @@ comments: true
         </div>
         <div class="cf post-meta-text" style="text-align:center">
               <!--<div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>-->
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
-              on
-              <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | jdate: "%A %d %b %Y" | habify}}</time>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4> | <span class="date">{{ page.date | jdate: "%B %e, %Y"}}</span> | <a class="post-reading"><a class="post-reading-time"></a> read
               <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
         </div>
         <br>
@@ -44,10 +43,8 @@ comments: true
         <br>
         {% endif %}
         <section dir="rtl" class="post-content">
-          <div class="post-reading">
-            <span class="post-reading-time"></span> read
-          </div>
-          <a name="topofpage"></a>
+<a id="demoFont" style="font-family: Georgia, serif;font-size: 12px;letter-spacing: 2px;word-spacing: -5px;color: #6A6A6A;font-weight: 700;font-style: italic;">زمان تخمینی مطالعه: <a class="post-reading"><a class="post-reading-time" style="font-family: Georgia, serif;font-size: 12px;letter-spacing: 2px;word-spacing: -2px;color: #6A6A6A;font-weight: 700;font-style: italic;"></a>
+          <a name="topofpage"></a><br><br>
           {{content}}
         </section>
         <footer class="post-footer">

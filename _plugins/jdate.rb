@@ -14,4 +14,3 @@ module Jekyll
 end
 
 Liquid::Template.register_filter(Jekyll::JDate)
-
