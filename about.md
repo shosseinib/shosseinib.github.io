@@ -9,9 +9,10 @@ permalink: /about/
     > User-Agent: free.knowledge
     > use.feed.reader
    {
-  "name": "shosseinibi",
-  "description": "Parhm.D., Ph.D. Candidate in Bioinformatics",
-  "mail": "shosseinib outlook"
-}
+  "description": "Parhm.D.,
+
+  Ph.D. Candidate in Bioinformatics",}
+
+    > "mail": "shosseinib outlook"
 
 
