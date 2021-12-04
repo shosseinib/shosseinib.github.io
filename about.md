@@ -8,10 +8,9 @@ permalink: /about/
     > read: shosseinibi.github.io
     > User-Agent: free.knowledge
     > use.feed.reader
-   {
-  "description": "Parhm.D.,
+    > "description": "Parhm.D.,
 
-  Ph.D. Candidate in Bioinformatics",}
+    > Ph.D. Candidate in Bioinformatics",}
 
     > "mail": "shosseinib outlook"
 
