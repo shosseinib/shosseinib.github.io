@@ -28,7 +28,7 @@ author: 'shosseinib'
 collections:
   - medium_posts
 
-url: "http://shosseinib.github.io/fa" # the base hostname & protocol for your site
+url: "http://shosseinib.github.io" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
