@@ -21,7 +21,7 @@ comments: true
             </div>
         <div class="cf post-meta-text" style="text-align:center">
             <!--<div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>-->
-            <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4> | <span class="date">{{ page.date | jdate: "%B %e, %Y"}}</span>
+            <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4> | <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
           </a>
             <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
         </div>
@@ -35,7 +35,7 @@ comments: true
         </div>
         <div class="cf post-meta-text" style="text-align:center">
               <!--<div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>-->
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4> | <span class="date">{{ page.date | jdate: "%B %e, %Y"}}</span> | <a class="post-reading"><a class="post-reading-time"></a> read
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4> | <span class="date">{{ page.date: "%B %e, %Y"}}</span>
               <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
         </div>
         <br>
