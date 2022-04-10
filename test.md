@@ -1,10 +1,10 @@
 آثار سال دوم بجز تک آهنگها (از اول اسفند ۹۹ تا پایان ۱۴۰۰)
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-- [مجموعه‌ها](#مجموعه‌ها)
-- [مجموعه‌های بیکلام](#مجموعه‌های-بیکلام)
-- [مجموعه‌های همکاری](#مجموعه‌های-همکاری)
+- [مجموعه‌ها](#مجموعهها)
+- [مجموعه‌های بیکلام](#مجموعههای-بیکلام)
+- [مجموعه‌های همکاری](#مجموعههای-همکاری)
 - [ویدئو](#ویدئو)
-- [فعالیت‌ها](#فعالیت‌ها)
+- [فعالیت‌ها](#فعالیتها)
 
 <!-- markdown-toc end -->
 
@@ -158,5 +158,3 @@
 | کانال نیما DW              | <a href="https://www.youtube.com/channel/UCh5gKRCY5bWqdpvCEwllTZA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>                            |
 | آزمایشگاه                  | <a href="https://www.youtube.com/channel/UCjbpSnGE04wLdP9I7R_vPug"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>                            |
 | RadioActiceZone - DeadRoom | <a href="https://www.youtube.com/playlist?list=PLER0f5KCvBJ21r5z8KgVgxD5wo19oOcaH"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>            |
-
-
