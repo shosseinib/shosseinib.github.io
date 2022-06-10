@@ -31,7 +31,7 @@ I love how the Slovak language is like the Icelandic language. After listening t
   #+end_quote
 * *Jazz*
 ** 2019
-- Enrico Rava & Joe Lovano *Roma (Live)* [[[https://open.spotify.com/album/7oJD5GX7laQuDzSz10eKS2][spotify]]]
+- Enrico Rava & Joe Lovano *Roma (Live)* [[https://open.spotify.com/album/7oJD5GX7laQuDzSz10eKS2][spotify]]
 ** 2021
 - Mira Martin-Gray, Bryan Qu, Karen Ng, Nick Dunston *Trumpet & Drums REMIX Festival* [[https://linaallemano.bandcamp.com/album/trumpet-drums-remix-festival][bandcamp]]
 - Milton Man Gogh *The Great Reset* [[https://miltonmangogh.bandcamp.com/album/the-great-reset-2?from=fandiscflw][bandcamp]]
@@ -64,11 +64,11 @@ Yes, They say that *=Funk=* is a religion. They try to prove it by instruments a
   #+begin_quote
 A good and standard middle east-inspired *=Jazz=* collection, featuring multiple artists in various sub-genres. Feature track: *=3. The Fifth Grade=* and *=6. Lars Danielsson feat. Kinan Azmeh & Kinan Azmeh - Desert of Catanga=*.
   #+end_quote
-- Larry Coryell & Philip Catherin *Jazz at Berlin Philarmonic XI: The Last Call* [[[https://open.spotify.com/album/2cD1jGlfK02V3VOK3mHsoU][spotify]]]
+- Larry Coryell & Philip Catherin *Jazz at Berlin Philarmonic XI: The Last Call* [[https://open.spotify.com/album/2cD1jGlfK02V3VOK3mHsoU][spotify]]
 #+begin_quote
 Fetured track: *=3. Manha De Carnaval - Live=*. 
 #+end_quote
-- David Helbock, Sebastian Studnitzky, and Arna Jensen *The New Cool* [[[https://open.spotify.com/album/6jpDo7lFK5RUMNkubr4jPi][spotify]]]
+- David Helbock, Sebastian Studnitzky, and Arna Jensen *The New Cool* [[https://open.spotify.com/album/6jpDo7lFK5RUMNkubr4jPi][spotify]]
 ** 2022
 - Joel Lyssarides *Stay Now* [[https://joellyssarides.bandcamp.com/releases][bandcamp]]
 - Gordon Grdina's Haram *Night's Quietest Hour* [[https://gordongrdina.bandcamp.com/album/nights-quietest-hour?from=fandiscflw][bandcamp]]
