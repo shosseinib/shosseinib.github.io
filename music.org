@@ -1,0 +1,159 @@
+#+title: Music Recommendations
+#+author: [[https://shosseinib.github.io][shosseinib]], a noise enthusiast
+
+#+SETUPFILE: ./../setupfiles/comfy_inline.theme
+#+OPTIONS: num:nil
+#+FILETAGS: music
+* *Code of Conduct*
+Here I collect music albums that I consider worshiped (in my way) works in ~Jazz~, ~Post-Everything~, ~Noise~, ~*Metal~, ~Electronic~, and ~Experimental & Improvisation~. The order is by year, but there is no order; I may re-sort them by their artist name later; who knows?
+
+* *Electronic*
+** 2021
+- Doyeq *Never Back* [[https://fuselab.bandcamp.com/album/never-back][bandcamp]]
+- HEXSYSTEM *Interface OST Vol. II* [[https://hexsystem.bandcamp.com/album/interface-ost-vol-ii?from=fandiscflw][bandcamp]]
+** 2022
+- HEXSYSTEM *No Confluence* [[https://hexsystem.bandcamp.com/album/no-confluence?from=fanpub_fnb][bandcamp]]
+* *Experimental & Improvisation*
+** 2019
+- Sam Andreae/David Birchall/Toshimaru Nakamura/Otto Willberg *UK ツアー 2019* [[https://scatterarchive.bandcamp.com/album/uk-2019?from=fandiscflw][bandcamp]]
+** 2020
+- Jean-Luc Guionnet, Annette Krebs *pointe sèche* [[https://annettekrebs.bandcamp.com/album/pointe-s-che][bandcamp]]
+** 2021
+- Guilherme Rodrigues & Carlos Santos *Uncommon Symmetries* [[https://guilhermerodrigues.bandcamp.com/album/uncommon-symmetries][bandcamp]]
+- I/O - Carlos Santos and Ulrich Mitzlaff *Studies on Colour Field Modulation* [[https://carlossantos.bandcamp.com/album/studies-on-colour-field-modulation][bandcamp]]
+- Omawi featuring Alistair Payne, Ingebrigt Håker Flaten *Omawi: Live at Roze Tanker* [[https://doekraw.bandcamp.com/album/omawi-live-at-roze-tanker][bandcamp]]
+- Guitar Party Power (IMP021) *Bob Log III* [[https://improvedsequence.bandcamp.com/album/guitar-party-power-imp021?from=fanpub_fnb_merch][bandcamp]]
+** 2022
+- Mark Wagner *S☉N RISE / S☉N OF THE SUN* [[https://zamzamrec.bandcamp.com/album/s-n-rise-s-n-of-the-sun][bandcamp]]
+-  Adela Mede *Szabadság* [[https://adelamede.bandcamp.com/album/szabads-g-3?entry_type=a&from=newsletter-48620331&newsletter_id=48620331&newsletter_sig=aLi9o4WmsIeiNifL3%2FqQ3mfyM40%3D][bandcamp]]
+  #+begin_quote
+I love how the Slovak language is like the Icelandic language. After listening to this album, I've searched a little about Slovakia and found some interesting facts. By the way, I've liked the entire natural-leading process of the album. Feature track: *=6. Interlude III=*!
+  #+end_quote
+* *Jazz*
+** 2019
+- Enrico Rava & Joe Lovano *Roma (Live)* [[[https://open.spotify.com/album/7oJD5GX7laQuDzSz10eKS2][spotify]]]
+** 2021
+- Mira Martin-Gray, Bryan Qu, Karen Ng, Nick Dunston *Trumpet & Drums REMIX Festival* [[https://linaallemano.bandcamp.com/album/trumpet-drums-remix-festival][bandcamp]]
+- Milton Man Gogh *The Great Reset* [[https://miltonmangogh.bandcamp.com/album/the-great-reset-2?from=fandiscflw][bandcamp]]
+- Florian Arbenz, Francois Moutin, Maikel Vistel *Conversation #4 – Vulcanized* [[https://florianarbenz.bandcamp.com/album/conversation-4-vulcanized?from=fandiscflw][bandcamp]]
+- Liminal Space *ILL CONSIDERED* [[https://illconsidered.bandcamp.com/album/liminal-space?from=fanpub_fnb_pr][bandcamp]]
+- Playfield *Playfield 1, 2, and 3* [[https://orbit577.bandcamp.com/album/playfield-vol-3-after-life][bandcamp]]
+- Raposa Velha *Raposa Velha* [[https://madaboutrecordslabel.bandcamp.com/album/raposa-velha-raposa-velha?from=fandiscflw][bandcamp]]
+- Shuffle Demons *All In* [[https://theshuffledemons1.bandcamp.com/album/all-in?from=fandiscflw][bandcamp]]
+- Frank Kimbrough *Meanwhile* [[https://newvellerecords.bandcamp.com/album/meantime?from=fandiscflw][bandcamp]]
+- Amir ElSaffar *Rivers of Sound: The Other Shore* [[https://amirelsaffartworivers.bandcamp.com/album/rivers-of-sound-the-other-shore][bandcamp]]
+- Martin Wind Quartet *My Astorian Queen* [[https://www.youtube.com/watch?v=yGSZwLXvrB4&list=OLAK5uy_nx9guJpda8wLOmlHbZRbaZLC2WSYHROn0][youtube]]
+- Gerry Gibbs Thrasher Dream Trios *Songs from My Father* [[https://www.youtube.com/watch?v=fdH8jTeurlY&list=OLAK5uy_l69e7E3hg1x_2E0Te0FyLtaNLf0A-fHQk&index=1][youtube]]
+- The Cookers *Look Out!* [[https://www.youtube.com/watch?v=5s9fMj32lyo&list=OLAK5uy_l0rn5RhDcF2NIPnrFYZfO4U2b1W2xbkVQ&index=1][youtube]]
+- Veronica Swift *This Bitter Earth* [[https://www.youtube.com/playlist?list=OLAK5uy_lWWiGGnaNn6lWFS13RkPewG0e4iVjxeTQ][youtube]]
+- Umlaut Big Band *Mary's Ideas: Umlaut Big Band plays Mary Lou William* [[https://umlautrecords.bandcamp.com/album/marys-ideas-umlaut-big-band-plays-mary-lou-williams][bandcamp]]
+- Christian McBride & Inside Straight *Live at the Village Vanguard* [[https://www.youtube.com/watch?v=vwGj1tCSBpU&list=PLPtysUSalP2VnJOJW7QhxyLS7SnXa967Q&index=9][youtube]]
+- Eberhard Weber *Once Upon A Time* [[https://open.spotify.com/album/1aSenHcDXIhubEZJMZwuod][spotify]]
+- Diogo Alexandre - Bock Ensemble *Pipe Tree* [[https://jaccrecords.bandcamp.com/album/pipe-tree?from=fanpub_fnb][bandcamp]]
+- Jakob Bro Arve Henriksen Jorge Rossy *Uma Elmo* [[https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts][spotify]]
+- Daniel Garcia *Via de la Plata* [[https://danielgarciadiego.bandcamp.com/album/via-de-la-plata][bandcamp]]
+- Various Artists *Magic Moments 14* [[https://open.spotify.com/album/7AH4CfmNPT45RpKImYpQeX][spotify]]
+  #+begin_quote
+As you can guess from the album's name, it's a complication from some memorable songs in a wide spectrum of subgenres of *=Jazz=*.
+  #+end_quote
+- Funk Is My Religion *Nils Landgren Funk Unit* [[https://nilslandgrenfunkunit.bandcamp.com/album/funk-is-my-religion][bandcamp]]
+  #+begin_quote
+Yes, They say that *=Funk=* is a religion. They try to prove it by instruments and vocals. Feature song: *=5. Es in  Memoriam=*.
+  #+end_quote
+- Lars Danielsson *Cloudland* [[https://larsdanielsson.bandcamp.com/album/cloudland][bandcamp]]
+  #+begin_quote
+A good and standard middle east-inspired *=Jazz=* collection, featuring multiple artists in various sub-genres. Feature track: *=3. The Fifth Grade=* and *=6. Lars Danielsson feat. Kinan Azmeh & Kinan Azmeh - Desert of Catanga=*.
+  #+end_quote
+- Larry Coryell & Philip Catherin *Jazz at Berlin Philarmonic XI: The Last Call* [[[https://open.spotify.com/album/2cD1jGlfK02V3VOK3mHsoU][spotify]]]
+#+begin_quote
+Fetured track: *=3. Manha De Carnaval - Live=*. 
+#+end_quote
+- David Helbock, Sebastian Studnitzky, and Arna Jensen *The New Cool* [[[https://open.spotify.com/album/6jpDo7lFK5RUMNkubr4jPi][spotify]]]
+** 2022
+- Joel Lyssarides *Stay Now* [[https://joellyssarides.bandcamp.com/releases][bandcamp]]
+- Gordon Grdina's Haram *Night's Quietest Hour* [[https://gordongrdina.bandcamp.com/album/nights-quietest-hour?from=fandiscflw][bandcamp]]
+  #+begin_quote
+A classic Fussion of *=Jazz=*, *=Arabic=*, and *[[https://en.wikipedia.org/wiki/Bandari_music][Bandari]]* music. Feature track: *=3. Dulab Bayati=*
+  #+end_quote 
+- Branko Mataja *Over Fields And Mountains* [[https://brankomataja.bandcamp.com/album/over-fields-and-mountains?from=fanpub_fnb_pr][bandcamp]]
+#+begin_quote
+Something between *Ennio Morricone* many others!
+#+end_quote
+- Smith Komma John *Music For Humans* [[https://smithkommajohn.bandcamp.com/album/music-for-humans?from=fanpub_fnb][bandcamp]]
+#+begin_quote
+Norway!
+#+end_quote
+
+* **Metal*
+** Death
+*** 2022
+- Septicflesh *Modern Primitive* [[https://septicflesh.bandcamp.com/album/modern-primitive?from=fanpub_nfnb_pr][bandcamp]]
+#+begin_quote
+Finally, Septicflesh is here! A great greek band with a homogeneous discography in the matter of album art but not in their taste in music. Their last album is a fusion. A fusion of folk music and death, lyrical verses, and of course, enough harshness. Featured track: *=3. Self-Eater=*.
+#+end_quote
+** Doom
+*** 2021
+- Abysmal Grief *Funeral Cult of Personality* [[https://sunandmoonrecords.bandcamp.com/album/funeral-cult-of-personality][bandcamp]]
+- Funeralium *Funeralium* [[https://funeralium.bandcamp.com/album/funeralium?from=fannewrel][bandcamp]]
+- Swallow The Sun *Moonflowers* [[https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek][spotify]]
+- Funeral Mist *Deiform* [[https://funeralmist.bandcamp.com/album/deiform?from=fandiscflw][bandcamp]]
+- Akelei *Een van ons* [[https://akelei.bandcamp.com/album/een-van-ons?from=fandiscflw][bandcamp]]
+- So Hideous *None But a Pure Heart Can Sing* [[https://silentpendulumrecords.bandcamp.com/album/none-but-a-pure-heart-can-sing?from=fanpub_fnb_pr][bandcamp]]
+*** 2022
+- Where Myth Becomes Memory *Rolo Tomassi* [[https://rolotomassi.bandcamp.com/album/where-myth-becomes-memory?from=fanpub_fnb_pr][bandcamp]]
+- Dismalimerence, Nurez, olim, and The Wolf Garden *Recurrence (split)* [[https://thewolfgarden.bandcamp.com/album/recurrence-split?from=fanpub_fnb_pr&utm_campaign=thewolfgarden+album+recurrence-split][bandcamp]]
+#+begin_quote
+I just wondered about how there is a huge atmosphere around each song. Screams, melodies, and tonality are in a perfect balance. Favorite track: *=Nurez - Sommer=*
+#+end_quote
+- Obsessions  *Notturno* [[https://hypnoticdirgerecords.bandcamp.com/album/obsessions][bandcamp]]
+#+begin_quote
+Holy *=Doom=*, holy scream, holy poem. A very cheerful EP that you can find the deepest kind of darkness you want in. Feature track *=3.Falling=*.
+#+end_quote
+- Pyrithe *Monuments to Impermanence* [[https://gileadmedia.bandcamp.com/album/monuments-to-impermanence][bandcamp]]
+#+begin_quote
+I wasn't sure if I should put this album on the recommendation list. So, I listened to it twice; after that, the fifth track, *=5. Luminous=* to do that. Drums player, you nailed it!
+#+end_quote
+- Nova *Sylvaine* [[https://sylvainemusic.bandcamp.com/album/nova?from=fanpub_nfnb_pr][bandcamp]]
+#+begin_quote
+It hit me at *=2. Mono No Aware=* where clean soprano vioce combined by growl vocal. You know, That amazing moment...
+#+end_quote
+- Darkher *The Buried Strom* [[https://darkher-uk.bandcamp.com/album/the-buried-storm?from=fanpub_nfnb_pr][bandcamp]]
+#+begin_quote
+The album have all factors and metrials. but it wouldn't start from the first track. It makes you thirsty until you've reach to *=7. Immortals=*, but when it start it will not end very soon.
+#+end_quote
+- Mournful Congregation *The Exuviae of Gods - Part I* [[https://20buckspin.bandcamp.com/album/the-exuviae-of-gods-part-i?from=fanpub_fnb_pr&fan_action_pane=login&fan_action=follow][bandcamp]]
+#+begin_quote
+A classic doom metal, with long reefs, great basses, and lyrical procedure. Feature track: *=3. An Epic Dream Of Desire=*.
+#+end_quote
+** Progressive
+- Venus Principle *Stand In Your Light* [[https://venusprinciple.bandcamp.com/album/stand-in-your-light-deluxe-edition?from=fanpub_nfnb_pr][bandcamp]]
+#+begin_quote
+Let's be honest. It's too rare for me to listen a combo of male and female vocal and not to enjoy the song. In this case, the *=fifth=* track named *=The Lord He Giveth And He Taketh Away=* got me. 
+#+end_quote
+* *Noise*
+** 2022
+- Portal to the God Damn Blood Dimension *Rotten Fruit; Regular Orchard* [[https://portaltothegoddamnblooddimension.bandcamp.com/album/rotten-fruit-regular-orchard?from=fandiscflw][bandcamp]]
+#+begin_quote
+A double-track EP with noise, verse-like spoken words, and screams.
+#+end_quote
+- R. Weis *Installed: Sound For Exhibitions* [[https://wormholeworld.bandcamp.com/album/installed-sound-for-exhibitions?from=fanpub_fnb_pr][bandcamp]]
+#+begin_quote
+What do you want from a *=noise=* album? If you ask me, I answer you I need every sound which can be defined under chaotic noises. Spoken words, whispers, instruments, and urban sounds. All of them are in this album. Featured track: *=11. Requiem for a Paperweight (Chapters 5 and 6)=*.
+#+end_quote
+- Heavy Clound *Crossing The Water* [[[https://wormholeworld.bandcamp.com/album/crossing-the-water?from=fanpub_fnb_pr][bandcamp]]]
+#+begin_quote
+Ok I'm a little biased, but the fourth track *=Their leaves do not wish us to hurry=* is greate. Listen to find out what I mean.
+#+end_quote
+* *Post-everything*
+** 2021
+- Hope Drone *Husk* [[https://hopedrone.bandcamp.com/album/husk][bandcamp]]
+- Der Weg Einer Freihei *Noktvrn* [[https://derwegeinerfreiheitsom.bandcamp.com/album/noktvrn?from=fanpub_nfnb_pr][bandcamp]]
+** 2022
+- Caroline *Caroline* [[https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf][spotify]]
+#+begin_quote
+after a few months, I finally found an excellent vocal post-rock album. I'm pleased and blessed. Feature track: *=2. Good morning (red)=*.
+#+end_quote
+- old songs 2014 *Sadness* [[https://sadnessmusic.bandcamp.com/album/old-songs-2014?from=fanpub_fnb][bandcamp]]
+#+begin_quote
+Featured track: *=4. loss=*.
+#+end_quote
