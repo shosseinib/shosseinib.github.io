@@ -6,7 +6,7 @@
 #+FILETAGS: music
 * *Code of Conduct*
 Here I collect music albums that I consider worshiped (in my way) works in ~Jazz~, ~Post-Everything~, ~Noise~, ~*Metal~, ~Electronic~, and ~Experimental & Improvisation~. The order is by year, but there is no order; I may re-sort them by their artist name later; who knows?
-
+   
 * *Electronic*
 ** 2021
 - Doyeq *Never Back* [[https://fuselab.bandcamp.com/album/never-back][bandcamp]]
