@@ -13,6 +13,10 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
 - HEXSYSTEM *Interface OST Vol. II* [[https://hexsystem.bandcamp.com/album/interface-ost-vol-ii?from=fandiscflw][bandcamp]]
 ** 2022
 - HEXSYSTEM *No Confluence* [[https://hexsystem.bandcamp.com/album/no-confluence?from=fanpub_fnb][bandcamp]]
+- TaboTago *TaboTago* [[https://tabotago.bandcamp.com/album/sessions-010-20220422-live-at-zionskirche-berlin?from=fanpub_nfnb&utm_source=album_release&utm_medium=email&utm_content=fanpub_nfnb&utm_campaign=tabotago+album+sessions-010-20220422-live-at-zionskirche-berlin][bandcamp]]
+  #+begin_quote
+  A tribute, a great live performance. I wish I could be on that concert.
+  #+end_quote
 * *Experimental & Improvisation*
 ** 2019
 - Sam Andreae/David Birchall/Toshimaru Nakamura/Otto Willberg *UK ツアー 2019* [[https://scatterarchive.bandcamp.com/album/uk-2019?from=fandiscflw][bandcamp]]
