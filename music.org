@@ -4,6 +4,7 @@
 #+SETUPFILE: ./../setupfiles/comfy_inline.theme
 #+OPTIONS: num:nil
 #+FILETAGS: music
+
 * *Code of Conduct*
 Here I collect music albums that I consider worshiped (in my way) works in ~Jazz~, ~Post-Everything~, ~Noise~, ~*Metal~, ~Electronic~, and ~Experimental & Improvisation~. The order is by year, but there is no order; I may re-sort them by their artist name later; who knows?
    
@@ -15,7 +16,7 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
 - HEXSYSTEM *No Confluence* [[https://hexsystem.bandcamp.com/album/no-confluence?from=fanpub_fnb][bandcamp]]
 - TaboTago *TaboTago* [[https://tabotago.bandcamp.com/album/sessions-010-20220422-live-at-zionskirche-berlin?from=fanpub_nfnb&utm_source=album_release&utm_medium=email&utm_content=fanpub_nfnb&utm_campaign=tabotago+album+sessions-010-20220422-live-at-zionskirche-berlin][bandcamp]]
   #+begin_quote
-  A tribute, a great live performance. I wish I could be on that concert.
+  A tribute, a great live performance. I wish I could be at that concert.
   #+end_quote
 * *Experimental & Improvisation*
 ** 2019
@@ -32,6 +33,10 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
 -  Adela Mede *Szabadság* [[https://adelamede.bandcamp.com/album/szabads-g-3?entry_type=a&from=newsletter-48620331&newsletter_id=48620331&newsletter_sig=aLi9o4WmsIeiNifL3%2FqQ3mfyM40%3D][bandcamp]]
   #+begin_quote
   I love how the Slovak language is like the Icelandic language. After listening to this album, I've searched a little about Slovakia and found some interesting facts. By the way, I've liked the entire natural-leading process of the album. Feature track: *=6. Interlude III=*!
+  #+end_quote
+- Healing Potpourri *Paradise* [[https://healingpotpourri.bandcamp.com/album/paradise?from=embed][bandcamp]]
+  #+begin_quote
+  Ok, I should confess. At first, I was not too fond of the album because I thought it was a *=Stephan Stevens=* -y album, but as it sought forward, I found it's a complicated multi-instrumental album. With great tuning, orchestra, and lyrics. Great. Great. Favourite Track: *=6. Paradise=*.
   #+end_quote
 * *Jazz*
 ** 2019
@@ -70,18 +75,18 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
   #+end_quote
 - Larry Coryell & Philip Catherin *Jazz at Berlin Philarmonic XI: The Last Call* [[https://open.spotify.com/album/2cD1jGlfK02V3VOK3mHsoU][spotify]]
   #+begin_quote
-  Fetured track: *=3. Manha De Carnaval - Live=*. 
+  Featured Track: *=3. Manha De Carnaval - Live=*. 
   #+end_quote
 - David Helbock, Sebastian Studnitzky, and Arna Jensen *The New Cool* [[https://open.spotify.com/album/6jpDo7lFK5RUMNkubr4jPi][spotify]]
 ** 2022
 - Joel Lyssarides *Stay Now* [[https://joellyssarides.bandcamp.com/releases][bandcamp]]
 - Gordon Grdina's Haram *Night's Quietest Hour* [[https://gordongrdina.bandcamp.com/album/nights-quietest-hour?from=fandiscflw][bandcamp]]
   #+begin_quote
-  A classic Fussion of *=Jazz=*, *=Arabic=*, and *[[https://en.wikipedia.org/wiki/Bandari_music][Bandari]]* music. Feature track: *=3. Dulab Bayati=*
+  A classic Fusion of *=Jazz=*, *=Arabic=*, and *[[https://en.wikipedia.org/wiki/Bandari_music][Bandari]]* music. Feature track: *=3. Dulab Bayati=*
   #+end_quote 
 - Branko Mataja *Over Fields And Mountains* [[https://brankomataja.bandcamp.com/album/over-fields-and-mountains?from=fanpub_fnb_pr][bandcamp]]
   #+begin_quote
-  Something between *Ennio Morricone* many others!
+  Something between *Ennio Morricone* and many others!
   #+end_quote
 - Smith Komma John *Music For Humans* [[https://smithkommajohn.bandcamp.com/album/music-for-humans?from=fanpub_fnb][bandcamp]]
   #+begin_quote
@@ -93,7 +98,7 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
 *** 2022
 - Septicflesh *Modern Primitive* [[https://septicflesh.bandcamp.com/album/modern-primitive?from=fanpub_nfnb_pr][bandcamp]]
   #+begin_quote
-  Finally, Septicflesh is here! A great greek band with a homogeneous discography in the matter of album art but not in their taste in music. Their last album is a fusion. A fusion of folk music and death, lyrical verses, and of course, enough harshness. Featured track: *=3. Self-Eater=*.
+  Finally, Septicflesh is here! A great greek band with a homogeneous discography in the matter of album art but not in their taste in music. Their last album is a fusion. A fusion of folk music and death, lyrical verses, and of course, enough harshness. Featured Track: *=3. Self-Eater=*.
   #+end_quote
 ** Doom
 *** 2021
@@ -107,23 +112,23 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
 - Where Myth Becomes Memory *Rolo Tomassi* [[https://rolotomassi.bandcamp.com/album/where-myth-becomes-memory?from=fanpub_fnb_pr][bandcamp]]
 - Dismalimerence, Nurez, olim, and The Wolf Garden *Recurrence (split)* [[https://thewolfgarden.bandcamp.com/album/recurrence-split?from=fanpub_fnb_pr&utm_campaign=thewolfgarden+album+recurrence-split][bandcamp]]
   #+begin_quote
-  I just wondered about how there is a huge atmosphere around each song. Screams, melodies, and tonality are in a perfect balance. Favourite track: *=Nurez - Sommer=*
+  I just wondered about how there is a huge atmosphere around each song. Screams, melodies, and tonality are in a perfect balance. Favourite Track: *=Nurez - Sommer=*
   #+end_quote
 - Obsessions  *Notturno* [[https://hypnoticdirgerecords.bandcamp.com/album/obsessions][bandcamp]]
   #+begin_quote
-  Holy *=Doom=*, holy scream, holy poem. A very cheerful EP that you can find the deepest kind of darkness you want in. Feature track *=3.Falling=*.
+  Holy *=Doom=*, holy scream, holy poem. A very cheerful EP where you can find the deepest kind of darkness you want. Feature track *=3.Falling=*.
   #+end_quote
 - Pyrithe *Monuments to Impermanence* [[https://gileadmedia.bandcamp.com/album/monuments-to-impermanence][bandcamp]]
   #+begin_quote
-  I wasn't sure if I should put this album on the recommendation list. So, I listened to it twice; after that, the fifth track, *=5. Luminous=* to do that. Drums player, you nailed it!
+  I wasn't sure if I should put this album on the recommendation list. So, I listened to it twice; after that, the fifth Track, *=5. Luminous=* to do that. Drums player, you nailed it!
   #+end_quote
 - Nova *Sylvaine* [[https://sylvainemusic.bandcamp.com/album/nova?from=fanpub_nfnb_pr][bandcamp]]
   #+begin_quote
-  It hit me at *=2. Mono No Aware=* where clean soprano vioce combined by growl vocal. You know, That amazing moment...
+  It hit me at *=2. Mono No Aware=* where clean soprano voice combined by growl vocal. You know, That amazing moment...
   #+end_quote
 - Darkher *The Buried Strom* [[https://darkher-uk.bandcamp.com/album/the-buried-storm?from=fanpub_nfnb_pr][bandcamp]]
   #+begin_quote
-  The album have all factors and metrials. but it wouldn't start from the first track. It makes you thirsty until you've reach to *=7. Immortals=*, but when it start it will not end very soon.
+  The album has all factors and materials. But it wouldn't start from the first Track. It makes you thirsty until you've reached *=7. Immortals=*, but when it starts, it will not end very soon.
   #+end_quote
 - Mournful Congregation *The Exuviae of Gods - Part I* [[https://20buckspin.bandcamp.com/album/the-exuviae-of-gods-part-i?from=fanpub_fnb_pr&fan_action_pane=login&fan_action=follow][bandcamp]]
   #+begin_quote
@@ -131,20 +136,20 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
   #+end_quote
 - Sadness *To despair of ... (2014)* [[https://sadnessmusic.bandcamp.com/album/to-despair-of?from=fanpub_fnb&utm_source=album_release&utm_medium=email&utm_content=fanpub_fnb&utm_campaign=sadnessmusic+album+to-despair-of][bandcamp]]
   #+begin_quote
-  Re-anoucing of this album exposed this masterpiece to me. I don't want select albums released before 2020 here but in this case I do.
+  Re-announcing this album exposed this masterpiece to me. I don't want select albums released before 2020 here, but in this case, I do.
   #+end_quote
 - Deathwhite *Grey Everlasting* [[https://deathwhite.bandcamp.com/album/grey-everlasting?from=fanpub_nfnb_pr&utm_source=album_release&utm_medium=email&utm_content=fanpub_nfnb_pr&utm_campaign=deathwhite+album+grey-everlasting][bandcamp]]
   #+begin_quote
-  A silent, heavy, and atmospheric album by an american band. I don't like the way they promoted their album by tagging other bands in the Bandcamp page, but it tells us: Amorphis, Katatonia (ew), Swallow the Sun, etc. Favourite track: *=10. Blood and Ruin=*.
+  A silent, heavy, and atmospheric album by an American band. I wouldn't say I like how they promoted their album by tagging other bands on the Bandcamp page, but it tells us: Amorphis, Katatonia (ew), Swallow the Sun, etc. Favourite Track: *=10. Blood and Ruin=*.
   #+end_quote
 ** Progressive
 - Venus Principle *Stand In Your Light* [[https://venusprinciple.bandcamp.com/album/stand-in-your-light-deluxe-edition?from=fanpub_nfnb_pr][bandcamp]]
   #+begin_quote
-Let's be honest. It's too rare for me to listen a combo of male and female vocal and not to enjoy the song. In this case, the *=fifth=* track named *=The Lord He Giveth And He Taketh Away=* got me. 
+Let's be honest. It's too rare for me to listen to a combo of male and female vocals and not enjoy the song. In this case, the *=fifth=* track named *=The Lord He Giveth And He Taketh Away=* got me. 
   #+end_quote
 - Ashenspire *Hostile Architecture* [[https://www.youtube.com/watch?v=9e7QpOwvXOs&list=OLAK5uy_nxZGJsqQpwwPwwxWf82xfKF8Y8YrwKreM&index=1][youtube]]
   #+begin_quote
-  A guy said it's a "Post Black Metal". But no. It's a Fusion Jazz Post-Metal. No wait, it's Spoken Fusion Post Jazz Metal. Nah, it's Progressive Spoken Fusion Post Jazz Metal, right, it's better. Even now I missed the "classical" part. It's the all. It's every kinds of intelligence that you can use in an album. Favourite Track: *=3. Plattenbau Persephone Praxis=*.
+  A guy said it's a "Post Black Metal." But no. It's a Fusion Jazz Post-Metal. No, wait, it's Spoken Fusion Post Jazz Metal. Nah, it's Progressive Spoken Fusion Post Jazz Metal, right? It's better. Even now, I missed the "classical" part. It's all. It's every kind of intelligence that you can use in an album. Favourite Track: *=3. Plattenbau Persephone Praxis=*.
   #+end_quote
 * *Noise*
 ** 2022
@@ -154,11 +159,11 @@ Let's be honest. It's too rare for me to listen a combo of male and female vocal
   #+end_quote
 - R. Weis *Installed: Sound For Exhibitions* [[https://wormholeworld.bandcamp.com/album/installed-sound-for-exhibitions?from=fanpub_fnb_pr][bandcamp]]
   #+begin_quote
-  What do you want from a *=noise=* album? If you ask me, I answer you I need every sound which can be defined under chaotic noises. Spoken words, whispers, instruments, and urban sounds. All of them are in this album. Featured track: *=11. Requiem for a Paperweight (Chapters 5 and 6)=*.
+  What do you want from a *=noise=* album? I answer you I need every sound which it can define under chaotic noises. Spoken words, whispers, instruments, and urban sounds. All of them are in this album. Featured Track: *=11. Requiem for a Paperweight (Chapters 5 and 6)=*.
   #+end_quote
 - Heavy Clound *Crossing The Water* [[[https://wormholeworld.bandcamp.com/album/crossing-the-water?from=fanpub_fnb_pr][bandcamp]]]
   #+begin_quote
-  Ok I'm a little biased, but the fourth track *=Their leaves do not wish us to hurry=* is greate. Listen to find out what I mean.
+  Ok, I'm a little biased, but the fourth Track *=Their leaves do not wish us to hurry=* is great. Listen to find out what I mean.
   #+end_quote
 * *Post-everything*
 ** 2021
@@ -166,10 +171,10 @@ Let's be honest. It's too rare for me to listen a combo of male and female vocal
 - Der Weg Einer Freihei *Noktvrn* [[https://derwegeinerfreiheitsom.bandcamp.com/album/noktvrn?from=fanpub_nfnb_pr][bandcamp]]
 - Secret Gardens *Tundra* [[https://secretgardens.bandcamp.com/album/tundra][bandcamp]]
   #+begin_quote
-  I'm skeptical about recent released albums. But Tunda changed my mind. It'a a combo of grunge, spoken words, nature-abmient-new age with real rock roots. Favourite track: *=3. Silliness (feat. Erin Reus)=*.
+  I'm skeptical about recently released albums. But Tundra changed my mind. It's a combo of grunge, spoken words, nature-ambient-new age with real rock roots. Favourite Track: *=3. Silliness (feat. Erin Reus)=*.
   #+end_quote
   #+begin_quote
-  _P.S._ Ok, I've changed my mind, my favourite track is *=6. I'm Fucking Tired of Being Sad=*.
+  _PS_ Ok, I've changed my mind; my favourite Track is *=6. I'm Fucking Tired of Being Sad=*.
   #+end_quote
 - Black Flak and the Nightmare Fighters *Ad Meliora* [[https://blackflakslc.bandcamp.com/album/ad-meliora][bandcamp]]
   #+begin_quote
@@ -182,9 +187,9 @@ Let's be honest. It's too rare for me to listen a combo of male and female vocal
   #+end_quote
 - old songs 2014 *Sadness* [[https://sadnessmusic.bandcamp.com/album/old-songs-2014?from=fanpub_fnb][bandcamp]]
   #+begin_quote
-  Featured track: *=4. loss=*.
+  Featured Track: *=4. loss=*.
   #+end_quote
-- Calcel the Apocalypse *Terminus Stairway* [[https://open.spotify.com/album/0J8ciXLG7K6bLwmzQMMSlW?si=0b700607e4874874][spotify]]
+- Cancel the Apocalypse *Terminus Stairway* [[https://open.spotify.com/album/0J8ciXLG7K6bLwmzQMMSlW?si=0b700607e4874874][spotify]]
   #+begin_quote
 Feature track: *=8. I Should Never Have a Stop=*.
   #+end_quote
