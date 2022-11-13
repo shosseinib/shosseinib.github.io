@@ -92,7 +92,10 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
   #+begin_quote
   Norway!
   #+end_quote
-
+- Duval Timphty *Meeting with a Judas Tree* [[https://duvaltimothy.bandcamp.com/album/meeting-with-a-judas-tree][bandcamp]]
+  #+begin_quote
+  A great experimental ~fusion~ piece of work. You can hear some post-rockish sounds merged with electronic music. Besides the artist claims that he inspired by ~hip-hop~. I couldn't hear anything from this point, at least at three fist listening of it. Featured Track: *=2. Wood ft. Yu Su=*.
+  #+end_quote
 * **Metal*
 ** Death
 *** 2022
