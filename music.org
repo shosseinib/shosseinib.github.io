@@ -101,7 +101,7 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
 *** 2022
 - Septicflesh *Modern Primitive* [[https://septicflesh.bandcamp.com/album/modern-primitive?from=fanpub_nfnb_pr][bandcamp]]
   #+begin_quote
-  Finally, Septicflesh is here! A great greek band with a homogeneous discography in the matter of album art but not in their taste in music. Their last album is a fusion. A fusion of folk music and death, lyrical verses, and of course, enough harshness. Featured Track: *=3. Self-Eater=*.
+  Finally, Septicflesh is here! A great greek band with a homogeneous discography in the manner of album art but not in their taste in music. Their last album is a fusion. A fusion of folk music and death, lyrical verses, and of course, enough harshness. Featured Track: *=3. Self-Eater=*.
   #+end_quote
 ** Doom
 *** 2021
