@@ -5,6 +5,7 @@
 #+OPTIONS: num:nil
 #+FILETAGS: music
 
+
 * *Code of Conduct*
 Here I collect music albums that I consider worshiped (in my way) works in ~Jazz~, ~Post-Everything~, ~Noise~, ~*Metal~, ~Electronic~, and ~Experimental & Improvisation~. The order is by year, but there is no order; I may re-sort them by their artist name later; who knows?
    
@@ -95,6 +96,10 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
 - Duval Timphty *Meeting with a Judas Tree* [[https://duvaltimothy.bandcamp.com/album/meeting-with-a-judas-tree][bandcamp]]
   #+begin_quote
   A great experimental ~fusion~ piece of work. You can hear some post-rockish sounds merged with electronic music. Besides the artist claims that he inspired by ~hip-hop~. I couldn't hear anything from this point, at least at three fist listening of it. Featured Track: *=2. Wood ft. Yu Su=*.
+  #+end_quote
+- Bill Frisell *Four (Blue Note)* [[https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr][Spotify]]
+  #+begin_quote
+  This may be the last =jazz= album I reviewed in 2022. There are a bunch of albums I collected or ignored to listen to later. But I'm happy I listened to this album only one month after its release. You hear many "fresh" and harmonic sounds from the first track. I can get sleepy, excited, and even sad when you enjoy the quality of the mix, primarily when you focus on the drum's mix and mastering. You can feel every step of the piano's pedal changing, and even more, you can see the saxophone's key pressings in your imagination. 
   #+end_quote
 * **Metal*
 ** Death
