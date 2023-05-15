@@ -101,11 +101,19 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
   #+begin_quote
   This may be the last =jazz= album I reviewed in 2022. There are a bunch of albums I collected or ignored to listen to later. But I'm happy I listened to this album only one month after its release. You hear many "fresh" and harmonic sounds from the first track. I can get sleepy, excited, and even sad when you enjoy the quality of the mix, primarily when you focus on the drum's mix and mastering. You can feel every step of the piano's pedal changing, and even more, you can see the saxophone's key pressings in your imagination. 
   #+end_quote
+ - M.CHUZI *Papara* [[https://mchuzi.bandcamp.com/album/papara?label=1432725081&tab=artists][bandcamp]]
+   #+begin_quote
+   Happy album. Feature Track ~3. feat. Joy Slam - Carbonade~
+   #+end_quote
 * **Metal*
 ** Black
 -  Entropia *Total* [[https://agoniarecords.bandcamp.com/album/total?from=embed][bandcamp]]
   #+begin_quote
 A very harsh and progressive backend post metal with a taste of ~black metal~. If you ask me I prefer this kind of post metal instead of some repeating reefs and melodies. Vocals in this album id gorgeous. Featured Track: *=5. Final=*.
+  #+end_quote
+- Dream Unending *Song Of Salvation* [[https://listen.20buckspin.com/album/song-of-salvation][bandcamp]]
+  #+begin_quote
+Great growl and clean vocals. Feature Track: ~5. Ecstatic Reign. Tremendous instrument and vocal  gaps; plus great female vocal~  
   #+end_quote
 ** Death
 *** 2022
@@ -206,5 +214,6 @@ Let's be honest. It's too rare for me to listen to a combo of male and female vo
   #+begin_quote
 Feature track: *=8. I Should Never Have a Stop=*.
   #+end_quote
+
 
 
