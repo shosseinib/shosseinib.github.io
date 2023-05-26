@@ -79,6 +79,10 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
   Featured Track: *=3. Manha De Carnaval - Live=*. 
   #+end_quote
 - David Helbock, Sebastian Studnitzky, and Arna Jensen *The New Cool* [[https://open.spotify.com/album/6jpDo7lFK5RUMNkubr4jPi][spotify]]
+- Human *Shai Maestro* [[https://open.spotify.com/album/5lmVJX32hZzCHAf3uYVifn][spotify]]
+  #+begin_quote
+  Yet another great work by ECM in collabration with Shai Maestro. A minimalist album with some surprises. Feature track =2. Mystery and Illusion=.
+  #+end_quote
 ** 2022
 - Joel Lyssarides *Stay Now* [[https://joellyssarides.bandcamp.com/releases][bandcamp]]
 - Gordon Grdina's Haram *Night's Quietest Hour* [[https://gordongrdina.bandcamp.com/album/nights-quietest-hour?from=fandiscflw][bandcamp]]
