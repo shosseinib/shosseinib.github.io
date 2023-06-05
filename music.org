@@ -8,8 +8,7 @@
 
 
 * *Code of Conduct*
-Here I collect music albums that I consider worshiped (in my way) works in ~Jazz~, ~Post-Everything~, ~Noise~, ~*Metal~, ~Electronic~, and ~Experimental & Improvisation~. The order is by year, but there is no order; I may re-sort them by their artist name later; who knows?
-   
+In this list, I am gathering albums that I hold in high regard (according to my own personal taste) in genres including Jazz, Post-Everything, Noise, *Metal, Electronic, and Experimental & Improvisation. I have organized them chronologically but there is not necessarily any particular order, and I may choose to sort them alphabetically by artist name at a later time.  
 * *Electronic*
 ** 2021
 - Doyeq *Never Back* [[https://fuselab.bandcamp.com/album/never-back][bandcamp]]
@@ -34,8 +33,8 @@ Here I collect music albums that I consider worshiped (in my way) works in ~Jazz
 - Mark Wagner *S☉N RISE / S☉N OF THE SUN* [[https://zamzamrec.bandcamp.com/album/s-n-rise-s-n-of-the-sun][bandcamp]]
 -  Adela Mede *Szabadság* [[https://adelamede.bandcamp.com/album/szabads-g-3?entry_type=a&from=newsletter-48620331&newsletter_id=48620331&newsletter_sig=aLi9o4WmsIeiNifL3%2FqQ3mfyM40%3D][bandcamp]]
   #+begin_quote
-  I love how the Slovak language is like the Icelandic language. After listening to this album, I've searched a little about Slovakia and found some interesting facts. By the way, I've liked the entire natural-leading process of the album. Feature track: *=6. Interlude III=*!
-  #+end_quote
+  I love how the Slovak language is like Icelandic. After listening to this album, I went on a little bit of research about Slovakia and found some cool stuff. The entire natural-leading process of the album was enjoyable. Feature track: *=6. Interlude III=*!
+#+end_quote
 - Healing Potpourri *Paradise* [[https://healingpotpourri.bandcamp.com/album/paradise?from=embed][bandcamp]]
   #+begin_quote
   Ok, I should confess. At first, I was not too fond of the album because I thought it was a *=Stephan Stevens=* -y album, but as it sought forward, I found it's a complicated multi-instrumental album. With great tuning, orchestra, and lyrics. Great. Great. Favourite Track: *=6. Paradise=*.
