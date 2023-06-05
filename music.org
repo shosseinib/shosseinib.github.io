@@ -1,7 +1,7 @@
 #+title: Music Journal
 #+author: [[https://shosseinib.github.io][shosseinib]], a noise enthusiast
 
-#+SETUPFILE: ~/org/setup_files/imagine_light/imagine_light.theme
+#+SETUPFILE: /home/hb/org/shosseinib.github.io/setup_files/imagine_light/imagine_light.theme
 #+OPTIONS: num:nil
 #+OPTIONS: html5-fancy: t
 #+FILETAGS: music

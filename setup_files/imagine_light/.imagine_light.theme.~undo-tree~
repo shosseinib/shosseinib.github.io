@@ -1,0 +1,8 @@
+(undo-tree-save-format-version . 1)
+"10bc19ad3d338a3ef33219882140540db882baa9"
+[nil nil nil nil (25726 5159 848191 192000) 0 nil]
+([nil nil ((1 . 3016) (t . -1)) nil (25726 5159 848189 299000) 0 nil])
+([nil nil ((3016 . 3017)) nil (25726 5159 848184 403000) 0 nil])
+([nil nil ((1831 . 1832) (#("2" 0 1 (fontified t)) . 1831) (undo-tree-id0 . -1) (t 25726 5159 850143 708000)) nil (25726 5549 484482 394000) 0 nil])
+([nil current ((#("0" 0 1 (fontified t)) . 1836) (1837 . 1838) 1836 (#("2" 0 1 (fontified t)) . 1835) (1836 . 1837) 1835) nil (25726 5549 484462 8000) 0 nil])
+nil
