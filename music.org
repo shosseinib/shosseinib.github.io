@@ -111,13 +111,15 @@ In this list, I am gathering albums that I hold in high regard (according to my 
    #+end_quote
 * **Metal*
 ** Black
--  Entropia *Total* [[https://agoniarecords.bandcamp.com/album/total?from=embed][bandcamp]]
-  #+begin_quote
-A very harsh and progressive backend post metal with a taste of ~black metal~. If you ask me I prefer this kind of post metal instead of some repeating reefs and melodies. Vocals in this album id gorgeous. Featured Track: *=5. Final=*.
-  #+end_quote
+*** 2022
 - Dream Unending *Song Of Salvation* [[https://listen.20buckspin.com/album/song-of-salvation][bandcamp]]
   #+begin_quote
 Great growl and clean vocals. Feature Track: ~5. Ecstatic Reign. Tremendous instrument and vocal  gaps; plus great female vocal~  
+  #+end_quote
+*** 2023
+-  Entropia *Total* [[https://agoniarecords.bandcamp.com/album/total?from=embed][bandcamp]]
+  #+begin_quote
+A very harsh and progressive backend post metal with a taste of ~black metal~. If you ask me I prefer this kind of post metal instead of some repeating reefs and melodies. Vocals in this album id gorgeous. Featured Track: *=5. Final=*.
   #+end_quote
 ** Death
 *** 2022
